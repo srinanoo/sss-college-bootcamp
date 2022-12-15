@@ -1,0 +1,65 @@
+PLAN OF ACTION
+    Collecting Information
+        Name
+        Experience
+        Education Qualification
+        Picture in Rectangle
+        Format in Enlarged
+
+        Image of Person
+
+        Country 
+        Mail Id
+        Location
+
+        Download Resume
+        Contact Me
+
+        Projects
+        What kind of Work
+
+        Experience
+        Education (as list)
+
+        Soft Skills
+
+        Social Media
+        Images of the Work
+
+    How to Implement or where to start
+        - STEPS (Pseudo Code - Step by step information in sequential order in human understandable language)
+
+        Rows / Cols
+            1 / 1
+            2 / 2
+            3 / 1
+            4 / 4
+            5 / 2
+            6 / 2
+            7 / 2
+            8 / 2
+            9 / 1
+            10 / 3
+            11 / 3
+            12 / 1
+            13 / 1
+
+SEO
+    Search Engine Optimization
+
+Spacing
+    Types?
+        2 types
+            margin
+            padding
+
+Div vs Span
+    difference?
+        div eg: is a block type
+        span eg: is an inline type
+
+Div vs Section
+
+Layout/Structure
+    flex box
+    grid box
